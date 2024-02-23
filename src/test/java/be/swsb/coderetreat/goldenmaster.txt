@@ -1,0 +1,30 @@
+Rental Record for Alice
+	Toy Story	1.5
+Amount owed is 1.5
+You earned 1 frequent renter points
+Rental Record for Bob
+	Finding Nemo	3.0
+Amount owed is 3.0
+You earned 1 frequent renter points
+Rental Record for Charlie
+	Interstellar	3.0
+Amount owed is 3.0
+You earned 1 frequent renter points
+Rental Record for Dana
+	Joker	9.0
+Amount owed is 9.0
+You earned 2 frequent renter points
+Rental Record for Evan
+	Forrest Gump	2.0
+Amount owed is 2.0
+You earned 1 frequent renter points
+Rental Record for Fiona
+	The Big Lebowski	3.5
+Amount owed is 3.5
+You earned 1 frequent renter points
+Rental Record for George
+	Toy Story	1.5
+	Avengers: Endgame	6.0
+	The Godfather	6.5
+Amount owed is 14.0
+You earned 4 frequent renter points
